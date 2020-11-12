@@ -7588,7 +7588,7 @@ header .logo a {
 }
 
 header .logo img {
-	width: auto;
+	/*width: auto;*/
 	height:120px
 }
 
